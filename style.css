@@ -15,11 +15,11 @@ body{
 }
 
 h1{
-    margin: 100px 0px 10px 0px;
+    margin: 50px 0px 10px 0px;
 }
 
 h3{
-    margin: 40px 10%;
+    margin: 25px 10%;
 }
 
 .av_text{
@@ -262,7 +262,7 @@ li{
 }
 
 #myphoto{
-    width: 40%;
+    width: 20%;
     /* min-width: 50%; */
     border-radius: 50%;
     border: solid black 1px;

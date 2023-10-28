@@ -13,15 +13,15 @@ let select_language = 0;
 
 
 git_icon_btn.addEventListener("click", () => {
-    window.open("https://github.com/AndreMeneses0103");
+    window.open("https://github.com/Renato15767");
 })
 linked_icon_btn.addEventListener("click", () => {
-    window.open("https://www.linkedin.com/in/andre-meneses-dev/");
+    window.open("https://www.linkedin.com/in/renato-nishikawa-003406217/");
 })
 email_icon_btn.addEventListener("click", () => {
-    window.open("mailto:andremeneses0103@gmail.com");
+    window.open("mailto:renato.nishikawa46@gmail.com");
 })
 twitter_icon_btn.addEventListener("click", () => {
-    window.open("https://twitter.com/andref_meneses");
+    window.open("#");
 })
 
