@@ -290,9 +290,34 @@ li{
     line-height: 40px;
 }
 
-.curso_text{
+/*Teste de padding*/
+/*Univap padding*/
+.univap_itens{
+    display: flex;
+    flex-flow: wrap;
+    align-content: center;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+}
+.univap_text{
     text-align: justify;
     margin: 0px 40px 0px 30px;
+    font-size: 18px;
+    flex: 1;
+    line-height: 40px;
+}
+
+#univap_image{
+    margin: 0px 25px 0px 43px;
+    max-width: 90%;
+    height: auto;
+}
+
+/*Curso padding*/
+
+.curso_text{
+    text-align: justify;
+    margin: 0px 76px 0px 30px;
     font-size: 18px;
     flex: 1;
     line-height: 40px;
@@ -304,9 +329,12 @@ li{
 }
 
 #curso_image{
-    width: 70%;
+    width: 85%;
     border: solid 1px black;
+    margin: 0px 50px 0px 0px;
 }
+
+/*Teste de padding*/
 
 #rm_image{
     width: 80%;
@@ -318,10 +346,7 @@ li{
     min-width: 400px;
 }
 
-.univap_image{
-    width: 60%;
-    min-width: 200px;
-}
+
 
 
 #app_image{
